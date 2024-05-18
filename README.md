@@ -2,7 +2,7 @@
 
 ## Power BI Portfolio
 ### Overview
-This Power BI portfolio is a collection of various Power BI projects I have worked on. Each project focuses on different data analysis and visualization tasks, demonstrating my skills in data modeling, report creation, and data-driven decision-making.
+This Power BI portfolio is a collection of various Power BI projects I have worked on. Each project focuses on a different data analysis and visualization task.
 
 ### Projects
 #### Coronavirus Analysis
